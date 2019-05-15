@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="python3">
+    <CLASSES />
+    <JAVADOC />
+    <NATIVE>
+      <root url="file://$PROJECT_DIR$/../lib/python3.6" />
+    </NATIVE>
+    <SOURCES />
+  </library>
+</component>
